@@ -16,11 +16,11 @@ Go-Cery is a web application designed to behave like a native mobile app. It can
 ## Installation
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/app-to-cart-mobile-app.git
+    git clone https://github.com/your-username/gocery-mobile-app.git
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd Gocery-mobile-app
+    cd gocery-mobile-app
     ```
 3. **Open `index.html` in your preferred web browser**.
 

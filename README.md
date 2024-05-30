@@ -20,7 +20,7 @@ Go-Cery is a web application designed to behave like a native mobile app. It can
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd app-to-cart-mobile-app
+    cd Gocery-mobile-app
     ```
 3. **Open `index.html` in your preferred web browser**.
 

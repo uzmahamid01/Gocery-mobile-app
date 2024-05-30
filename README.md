@@ -1,4 +1,4 @@
-# Go-Cery Mobile App
+# [Go-Cery](https://go-cery.netlify.app/) Mobile App
 
 ## Overview
 Go-Cery is a web application designed to behave like a native mobile app. It can be easily added to a user's homescreen for quick and seamless access. This project leverages HTML, CSS, and JavaScript for its frontend, and utilizes Firebase for its real-time database capabilities.
